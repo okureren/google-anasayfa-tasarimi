@@ -7,6 +7,8 @@ Y. Eren Okur
 ## Açıklama:
 
  [Patika](https://www.patika.dev/) adresindeki, Front-End Eğitiminin içersindeki HTML patikası bölüm sonu ödevidir.
+ Ödevde, [Wayback Machine](https://web.archive.org/) kullanarak Google' ın ilk versiyonunu yapmaya çalıştım.
+
 
 
 ## Ödevi yaptıktan sonraki kazanımlarım:
@@ -15,6 +17,7 @@ Y. Eren Okur
 * Sayfayı tasarlarken HTML etiketlerinde pratik yaptım.
 * CSS' in önemini anladım.
 * Web tasarım teknolojilerinin, dünden bugüne nasıl değiştiğini farkettim.
+
 
 ---
 
